@@ -1,0 +1,20 @@
+2025-02-11 22:40:19 INFO  RegistrationTestCase:28 - Browser started and website lauched
+2025-02-11 22:40:26 INFO  RegistrationTestCase:27 - first name entered
+2025-02-11 22:40:27 INFO  RegistrationTestCase:30 - last name entered
+2025-02-11 22:40:28 INFO  RegistrationTestCase:38 - email entered
+2025-02-11 22:40:30 INFO  RegistrationTestCase:45 - password and confirm password entered
+2025-02-11 22:40:34 INFO  RegistrationTestCase:48 - register button cliked 
+2025-02-11 22:40:44 INFO  LoginTestCase:28 - Browser started and website lauched
+2025-02-11 22:41:58 INFO  LoginTestCase:30 - email for login enterted
+2025-02-11 22:41:59 INFO  LoginTestCase:33 - password for login enterted
+2025-02-11 22:43:23 INFO  LoginTestCase:36 - login buttonm cliked
+2025-02-11 22:48:22 INFO  RegistrationTestCase:28 - Browser started and website lauched
+2025-02-11 22:48:43 INFO  RegistrationTestCase:27 - first name entered
+2025-02-11 22:48:44 INFO  RegistrationTestCase:30 - last name entered
+2025-02-11 22:48:44 INFO  RegistrationTestCase:38 - email entered
+2025-02-11 22:48:45 INFO  RegistrationTestCase:45 - password and confirm password entered
+2025-02-11 22:48:47 INFO  RegistrationTestCase:48 - register button cliked 
+2025-02-11 22:50:04 INFO  LoginTestCase:28 - Browser started and website lauched
+2025-02-11 22:50:11 INFO  LoginTestCase:30 - email for login enterted
+2025-02-11 22:50:12 INFO  LoginTestCase:33 - password for login enterted
+2025-02-11 22:50:16 INFO  LoginTestCase:36 - login buttonm cliked
